@@ -1,0 +1,25 @@
+body {
+  background-color:#ffffff;
+}
+h1 {color: #ff0000;  font-family: "Nunito", sans-serif;}
+
+h2 {color: #213172;  font-family: "IM Fell French Canon", serif;}
+
+h3 {font-family: "IM Fell French Canon", serif}
+
+p {color: #12cb8d;  font-family: "Zalando Sans SemiExpanded", sans-serif}
+
+.CaliGraph {background-color: #000000; color: #ffffff; font weight: bold; font-size: 1rem; padding: 20px}
+
+.leadPhoto {margin: 30px;}
+
+a {color: #f70e0e; text-decoration: none}
+a:hover {color: #666666; text-decoration: underline;}
+
+/* header styling yay! */
+
+.headerBox {
+  background-color: #999999;
+text-align: center;
+padding: 20px;
+}
