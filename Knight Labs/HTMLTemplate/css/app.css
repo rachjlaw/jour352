@@ -1,0 +1,23 @@
+/* GLOBAL ARTICLE STYLES */
+
+.navStyle {
+	background-color: #000;
+	color: #fff;
+	height: 50px;
+	padding: 12px;
+	text-align: center;
+}
+.navStyle a {
+	color: #f4f4f4;
+	text-decoration: none;
+}
+.navStyle a:hover {
+	color: #009cff;
+}
+.navItem {
+	margin: 0 25px 0 25px;
+}
+
+.timeline{
+	float: center;
+}
