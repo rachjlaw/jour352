@@ -1,0 +1,16 @@
+
+h1{
+	font-family: "EB Garamond", serif;
+}
+body{
+	margin: 50px;
+	font-family: "EB Garamond", serif;
+}
+
+
+.eb-garamond-<uniquifier> {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
